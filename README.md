@@ -4,6 +4,8 @@
 
 # AI System Design
 
+[🇰🇷 한국어](README.ko.md)
+
 **AI System Design - A complete guide to learn AI System Design step by step - from LLM inference, GPUs, KV Cache, and caching to RAG, Vector Databases, AI Agents, MCP, Multi-Agent Systems, Voice AI, Guardrails, Evaluation, Observability, Cost Optimization, and a step-by-step framework to crack any AI System Design interview. Everything in one place, explained in simple words, with detailed blogs for every deep dive.**
 
 > This AI System Design guide is helpful for anyone who wants to become:
